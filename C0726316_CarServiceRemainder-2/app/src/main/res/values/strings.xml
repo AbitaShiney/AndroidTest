@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">C0726316_CarServiceRemainder</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="type">
+        <item>Oil</item>
+        <item>Lining</item>
+        <item>Wheel alignment</item>
+        <item>Engine inspection</item>
+        <item>Timing belt</item>
+    </string-array>
+
+    <string-array name="stationName">
+        <item>Paragon Auto Repair</item>
+        <item>Sunny auto clinic</item>
+        <item>Mc Dermott Motors Tirecraft</item>
+        <item>Midas Auto Service and Tires</item>
+        <item>Cams Auto Service</item>
+    </string-array>
+</resources>
